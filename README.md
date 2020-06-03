@@ -1,1 +1,3 @@
-# easy-swiper-parallax
+https://airkross.github.io/easy-swiper-parallax/
+
+Легкая реализация паралакса для свипера
